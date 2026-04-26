@@ -1,3 +1,15 @@
+# macOS junk files
 __MACOSX/
 *.DS_Store
-logs/logs/__MACOSX/
+
+# Suricata / logs folders (local output)
+logs/
+output/
+
+# Packet capture files (optional safety)
+*.pcap
+*.pcapng
+
+# Python cache
+__pycache__/
+*.pyc
