@@ -39,9 +39,6 @@ Category: {category}
         except json.JSONDecodeError:
             continue
 
-# -----------------------------
-# 📊 ANALYTICS
-# -----------------------------
 
 total_alerts = len(attacker_ips)
 ip_counts = Counter(attacker_ips)
@@ -55,9 +52,6 @@ print("Total Alerts:", total_alerts)
 if top_attacker:
     print(f"Top Attacker IP: {top_attacker[0][0]} ({top_attacker[0][1]} alerts)")
 
-# -----------------------------
-# 📈 GRAPH
-# -----------------------------
 
 top_ips = ip_counts.most_common(5)
 
@@ -73,9 +67,6 @@ if top_ips:
     plt.tight_layout()
     plt.show()
 
-# -----------------------------
-# 💾 SAVE REPORT
-# -----------------------------
 
 with open(output_file, "w") as out:
     out.write("SURICATA SECURITY REPORT\n")
@@ -89,17 +80,3 @@ with open(output_file, "w") as out:
     out.writelines(report)
 
 print("\nReport saved successfully!")
-
-# -----------------------------
-# ⭐ OPTIONAL FEATURE: Threat Severity Tagging
-# -----------------------------
-
-def classify_attack(signature):
-    signature = signature.lower()
-
-    if "malware" in signature or "exploit" in signature or "trojan" in signature:
-        return "HIGH"
-    elif "scan" in signature or "suspicious" in signature or "probe" in signature:
-        return "MEDIUM"
-    else:
-        return "LOW"
