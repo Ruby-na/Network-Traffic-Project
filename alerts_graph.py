@@ -89,3 +89,17 @@ with open(output_file, "w") as out:
     out.writelines(report)
 
 print("\nReport saved successfully!")
+
+# -----------------------------
+# ⭐ OPTIONAL FEATURE: Threat Severity Tagging
+# -----------------------------
+
+def classify_attack(signature):
+    signature = signature.lower()
+
+    if "malware" in signature or "exploit" in signature or "trojan" in signature:
+        return "HIGH"
+    elif "scan" in signature or "suspicious" in signature or "probe" in signature:
+        return "MEDIUM"
+    else:
+        return "LOW"
