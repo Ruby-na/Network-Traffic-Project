@@ -65,7 +65,11 @@ if top_ips:
     plt.ylabel("Alerts")
     plt.xticks(rotation=45)
     plt.tight_layout()
-    plt.show()
+
+    # ✅ FIX: no freeze, auto close for presentation
+    plt.show(block=False)
+    plt.pause(2)
+    plt.close()
 
 
 with open(output_file, "w") as out:
