@@ -1,0 +1,6734 @@
+SURICATA SECURITY REPORT
+========================================
+
+Source: 10.2.28.88
+Destination: 23.47.50.182
+Alert: ET INFO Microsoft Connection Test
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 45.131.214.85
+Destination: 10.2.28.88
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Response
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 45.131.214.85
+Destination: 10.2.28.88
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Response
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 23.47.50.182
+Alert: ET INFO Microsoft Connection Test
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 45.131.214.85
+Destination: 10.2.28.88
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Response
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 45.131.214.85
+Destination: 10.2.28.88
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Response
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.183
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.142
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 23.218.232.166
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 23.218.232.148
+Destination: 10.2.28.88
+Alert: SURICATA HTTP Response excessive header repetition
+Category: Generic Protocol Command Decode
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET INFO HTTP traffic on port 443 (POST)
+Category: Potentially Bad Traffic
+----------------------------------------
+
+Source: 10.2.28.88
+Destination: 45.131.214.85
+Alert: ET REMOTE_ACCESS NetSupport Remote Admin Checkin
+Category: Misc activity
+----------------------------------------
