@@ -57,6 +57,16 @@ A final security report is generated containing:
 	Alert signatures
 	Attack categories 
 
+## 👤 My Personal Contributions
+
+- Modified and improved the Suricata log analyzer workflow
+- Enhanced alert parsing and structured output formatting
+- Implemented IP-based aggregation and top attacker detection
+- Added severity classification feature (LOW / MEDIUM / HIGH)
+- Built optional threat heatmap visualization module
+- Improved graph output for presentation-ready display
+- Integrated project execution flow using main.py
+
 
 
 
