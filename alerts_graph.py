@@ -69,7 +69,7 @@ if top_ips:
     # ✅ FIX: no freeze, auto close for presentation
     plt.show(block=False)
     plt.pause(2)
-    plt.close()
+    #plt.close()
 
 
 with open(output_file, "w") as out:
